@@ -92,7 +92,9 @@ Refer [here](https://github.com/marcusvlc/pytorch-on-rpi) for troubleshooting
 Above is an example prediction for noisy real time ECG data obtained using the edge inference model. The beat predictions are reperesented as blue markers on the ECG. 
 
 
-##Acknowledgements 
+## Acknowledgements 
 
 We would like to thank Jose Miguel, Victor Chung, Ramachandran Vennimalai, Arvind V and Harshita Suresh for their assistance in recording, editing the video and designing the logo for OMNI.
 We would so like to give our special thanks to Balamurali Murugesan (https://github.com/Bala93) for providing the inspiration for our network and problem formulation. 
+
+### If you use code contained in this repository for your project, do credit this repo. 
